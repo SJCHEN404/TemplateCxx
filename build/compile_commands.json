@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/SJCHEN/project/TemplateCxx/build",
+  "command": "/usr/bin/clang++  -I/Users/SJCHEN/project/TemplateCxx/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/hello.dir/main.cpp.o -c /Users/SJCHEN/project/TemplateCxx/main.cpp",
+  "file": "/Users/SJCHEN/project/TemplateCxx/main.cpp"
+},
+{
+  "directory": "/Users/SJCHEN/project/TemplateCxx/build",
+  "command": "/usr/bin/clang++  -I/Users/SJCHEN/project/TemplateCxx/include -O3 -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -std=gnu++17 -o CMakeFiles/hello.dir/src/hello.cpp.o -c /Users/SJCHEN/project/TemplateCxx/src/hello.cpp",
+  "file": "/Users/SJCHEN/project/TemplateCxx/src/hello.cpp"
+}
+]
